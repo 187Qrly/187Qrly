@@ -1,6 +1,10 @@
 <a href="https://media.giphy.com/media/a6kyEQD1IJqZVhgcsl/giphy.gif"><img src="https://media.giphy.com/media/a6kyEQD1IJqZVhgcsl/giphy.gif"></a>
 ### Welcome to my Github Profile
-My Name is Lorenz and I am from Germany :de:
+
+### OS
+### Technologies
+
+![LWJGL3](https://img.shields.io/badge/lwjgl-3-brightgreen)
 
 ### Languages
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
