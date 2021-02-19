@@ -1,5 +1,7 @@
 <a href="https://media.giphy.com/media/a6kyEQD1IJqZVhgcsl/giphy.gif"><img src="https://media.giphy.com/media/a6kyEQD1IJqZVhgcsl/giphy.gif"></a>
 ### Welcome to my Github Profile
+My Name is Lorenz. 
+I am currently 15 years old.
 
 ### OS
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
