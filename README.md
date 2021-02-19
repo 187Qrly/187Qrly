@@ -2,9 +2,8 @@
 ### Welcome to my Github Profile
 
 ### OS
-### Technologies
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 
-![LWJGL3](https://img.shields.io/badge/lwjgl-3-brightgreen)
 
 ### Languages
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
