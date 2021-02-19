@@ -2,5 +2,5 @@
 ### Welcome to my Github Profile
 My Name is Lorenz and I am from Germany :de:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=187Qrly&?theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=187Qrly&?theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
