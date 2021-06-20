@@ -7,7 +7,7 @@ I am currently 15 years old.
 A gentoo Linux Lover. Also uses it.
 
 ### Languages
-- Java (Great for minecraft mods, but doesn't like the Virtual Machines and the memory model)
+- Java (Great for minecraft mods 😂 and many applications, but not the best memory model)
 - Rust (Favorite Language, would programm everythink in it!)
 - C    (There you go. The best language after rust!)
 - Python (Uses it a lot for scripting)
